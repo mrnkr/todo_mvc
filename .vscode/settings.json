@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        ".idea": true,
+        ".metadata": true,
+        ".packages": true,
+        ".vscode": true,
+        "android": true,
+        "build": true,
+        "ios": true,
+        "pubspec.lock": true
+    }
+}

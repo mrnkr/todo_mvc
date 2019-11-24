@@ -1,0 +1,27 @@
+name: todo_mvc
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  bloc: ^2.0.0
+  cupertino_icons: ^0.1.2
+  flutter_bloc: ^2.0.1
+  get_it: ^3.0.3
+  hydrated_bloc: ^2.0.0
+  nanoid: ^0.1.0
+  path_provider: ^1.4.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  
